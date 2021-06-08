@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\Мишень\bin\Debug\Мишень.exe.config
+C:\Users\student\source\repos\Мишень\bin\Debug\Мишень.exe
+C:\Users\student\source\repos\Мишень\bin\Debug\Мишень.pdb
+C:\Users\student\source\repos\Мишень\obj\Debug\Мишень.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Мишень\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\Мишень\obj\Debug\App.g.cs
+C:\Users\student\source\repos\Мишень\obj\Debug\Мишень_MarkupCompile.cache
+C:\Users\student\source\repos\Мишень\obj\Debug\Мишень_MarkupCompile.lref
+C:\Users\student\source\repos\Мишень\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\Мишень\obj\Debug\Мишень.g.resources
+C:\Users\student\source\repos\Мишень\obj\Debug\Мишень.Properties.Resources.resources
+C:\Users\student\source\repos\Мишень\obj\Debug\Мишень.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Мишень\obj\Debug\Мишень.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Мишень\obj\Debug\Мишень.exe
+C:\Users\student\source\repos\Мишень\obj\Debug\Мишень.pdb
